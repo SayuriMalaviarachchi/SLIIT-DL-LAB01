@@ -1,2 +1,2 @@
-# SLIIT-DL-LAB02
-Deep Learning Lab 02 - IT22326140
+# SLIIT-DL-LAB01
+Deep Learning Lab 01 - IT22326140
